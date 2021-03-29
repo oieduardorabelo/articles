@@ -1,4 +1,4 @@
-# Como Usar TypeScript com AppSync Lambda Resolvers
+# Como Usar TypeScript com AWS AppSync Lambda Resolvers
 
 ## Gerando tipos de TypeScript diretamente do seu esquema!
 
