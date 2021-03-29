@@ -18,7 +18,7 @@ Você já deve ter uma configuração de projeto do AWS AppSync com um esquema G
 
 Para os fins deste tutorial, usaremos esse esquema como exemplo:
 
-```gql
+```graphql
 type Query {
   post(id: ID!): Post
 }
@@ -79,7 +79,7 @@ Se você estiver usando [AWS AppSync Scalars](https://docs.aws.amazon.com/appsyn
 
 Vamos criar um novo arquivo `appsync.graphql` com o seguinte conteúdo:
 
-```gql
+```graphql
 scalar AWSDate
 scalar AWSTime
 scalar AWSDateTime
