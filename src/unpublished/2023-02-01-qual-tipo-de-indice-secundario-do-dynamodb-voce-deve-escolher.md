@@ -64,11 +64,11 @@ GSIs são mais flexíveis: uma chave de partição é necessária, mas pode ser 
 
 Há muitas nuâncias aqui, mas na verdade se resumem a algumas diferenças simples, então fiz uma folha de dicas que você pode usar na próxima vez que estiver considerando suas opções de índice secundário.
 
-![Tabela mostrando as nuâncias dos tipos de índices secundários no DynamoDB](https://assets.website-files.com/628fadb065a50abf13a11485/63d2b9fbcfc70e60ff8707f3_DynamoDB%20Secondary%20Index%20Type%20Cheat%20Sheet%20V2.png)
+![Tabela mostrando as nuâncias dos tipos de índices secundários do DynamoDB](https://assets.website-files.com/628fadb065a50abf13a11485/63d2b9fbcfc70e60ff8707f3_DynamoDB%20Secondary%20Index%20Type%20Cheat%20Sheet%20V2.png)
 
 ---
 
-Fique de olho no próximo artigo desta série de modelagem de dados no DynamoDB (que visa detalhar o "design de tabela única").
+Fique de olho no próximo artigo desta série de modelagem de dados do DynamoDB (que visa detalhar o "design de tabela única").
 
 Em artigos futuros: mais sobre indexação secundária e uma discussão resumida sobre onde o "design de tabela única" deu terrivelmente errado.
 
