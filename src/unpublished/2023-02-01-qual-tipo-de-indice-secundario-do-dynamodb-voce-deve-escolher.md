@@ -12,7 +12,7 @@
 
 Modelagem de dados em Amazon DynamoDB, séries de artigos:
 
-1. [What really matters in DynamoDB data modeling?](https://www.gomomento.com/blog/what-really-matters-in-dynamodb-data-modeling)
+1. [O que realmente importa na modelagem de dados do DynamoDB?]()
 2. Qual tipo de índice secundário do DynamoDB você deve escolher? **(VOCÊ ESTÁ AQUI)**
 3. Custos de projeção de índice e perigos de GSIs sobrecarregados (em breve)
 

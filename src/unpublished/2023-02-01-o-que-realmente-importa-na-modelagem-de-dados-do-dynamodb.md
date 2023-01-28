@@ -10,6 +10,12 @@
 
 ---
 
+Modelagem de dados em Amazon DynamoDB, séries de artigos:
+
+1. O que realmente importa na modelagem de dados do DynamoDB? **(VOCÊ ESTÁ AQUI)**
+2. [Qual tipo de índice secundário do DynamoDB você deve escolher?]()
+3. Custos de projeção de índice e perigos de GSIs sobrecarregados (em breve)
+
 Quando deixei a equipe do DynamoDB alguns meses atrás, decidi que precisava compartilhar o que aprendi sobre como modelar dados para o DynamoDB e operá-lo bem. Durante **meus seis anos trabalhando com clientes internos e externos do DynamoDB na AWS**, tive a sorte de obter exposição a uma ampla variedade de modelos de dados do DynamoDB. Eu também vi como eles evoluíram na operação: como eles foram dimensionados (ou não) utilização com carga variável, sua flexibilidade para acomodar novos requisitos de aplicativos e se eles se tornaram proibitivos em termos de custo ao longo do tempo.
 
 Esta é a primeira parte de uma pequena série de artigos que publicarei com o objetivo de corrigir alguns equívocos sobre as práticas recomendadas de modelagem de dados do DynamoDB. Nos últimos anos, recomendações estranhas evoluíram por meio dos rumores das mídias sociais (com a ajuda do marketing da AWS). Vou escrever sobre o mundo real. Darei os mesmos conselhos que a equipe do DynamoDB dá a outras equipes da Amazon para quem o serviço é de missão crítica - as mesmas recomendações de otimização, os mesmos avisos sobre o placebo do "design de tabela única", as mesmas dicas sobre a interpretação de métricas, os mesmos detalhes nas nuâncias de mensuração e medição, e o mesmo foco na excelência operacional.
