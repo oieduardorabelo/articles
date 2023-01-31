@@ -22,3 +22,19 @@ Tradução completa do [Introduction to Event Driven Architecture](https://serve
 - [Combinando padrões](./02-06-combinando-padroes.md)
 
 **Conceitos**
+
+- [Eventos]()
+- [Principais componentes da EDA]()
+- [Consistência eventual]()
+- [latência variável]()
+- [Teste e depuração ]()
+
+**Melhores Práticas**
+
+- [Projetando eventos]()
+- [Idempotência]()
+- [Encomenda ]()
+
+**Resumo**
+
+- [Conclusão]()
