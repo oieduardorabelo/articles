@@ -12,7 +12,7 @@ Tradução completa do [Introduction to Event Driven Architecture](https://serve
 1.2 [Introdução a Arquitetura Orientada a Eventos](./01-02-introducao-a-arquitetura-orientada-a-eventos.md)\
 1.3 [Acoplamento forte vs. acoplamento fraco](./01-03-acoplamento-forte-vs-acoplamento-fraco.md)\
 1.4 [O que são arquiteturas orientadas a eventos?](./01-04-o-que-sao-arquiteturas-orientadas-a-eventos.md)\
-1.5 [Casos de uso comuns](./01-05-casos-de-uso-comuns.md)\
+1.5 [Casos de uso comuns](./01-05-casos-de-uso-comuns.md)
 
 **2. Padrões Comuns**
 
