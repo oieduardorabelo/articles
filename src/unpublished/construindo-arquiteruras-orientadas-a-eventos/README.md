@@ -23,18 +23,18 @@ Tradução completa do [Introduction to Event Driven Architecture](https://serve
 
 **Conceitos**
 
-- Eventos
-- Principais componentes da EDA
-- Consistência eventual
-- latência variável
-- Teste e depuração
+- [Eventos](./03-01-eventos.md)
+- [Componentes Principais de EDA](./03-02-componentes-principais-de-eda)
+- [Consistência Eventual](./03-03-consistencia-eventual.md)
+- [Latência Variável](./03-04-latencia-variavel.md)
+- [Testes e depuração](./03-05-testes-e-depuracao.md)
 
 **Melhores Práticas**
 
-- Projetando eventos
-- Idempotência
-- Encomenda
+- [Criando e Planejando Eventos](./04-01-criando-e-planejando-eventos.md)
+- [Idempotência](./04-02-idempotencia.md)
+- [Ordem de Eventos](./04-03-ordem-de-eventos.md)
 
 **Resumo**
 
-- Conclusão
+- [Conclusão](./05-01-conclusao.md)
