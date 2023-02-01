@@ -1,4 +1,4 @@
-# Bem-vindo ao Serverless Land em Português do Brasil
+# 🇧🇷 Bem-vindo ao Serverless Land em Português do Brasil
 
 Tradução completa do [Introduction to Event Driven Architecture](https://serverlessland.com/event-driven-architecture/intro) do [Serverless Land](https://serverlessland.com/).
 
