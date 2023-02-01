@@ -21,7 +21,7 @@ Tradução completa do [Introduction to Event Driven Architecture](https://serve
 2.3 [Coreografia e Orquestração](./02-03-coreografia-e-orquestracao.md)\
 2.4 [Fluxo de Eventos](./02-04-fluxo-de-eventos.md)\
 2.5 [Conectando fontes de eventos](./02-05-conectando-fontes-de-eventos.md)\
-2.6 [Combinando padrões](./02-06-combinando-padroes.md)\
+2.6 [Combinando padrões](./02-06-combinando-padroes.md)
 
 **3. Conceitos**
 
@@ -29,14 +29,14 @@ Tradução completa do [Introduction to Event Driven Architecture](https://serve
 3.2 [Componentes Principais de EDA](./03-02-componentes-principais-de-eda)\
 3.3 [Consistência Eventual](./03-03-consistencia-eventual.md)\
 3.4 [Latência Variável](./03-04-latencia-variavel.md)\
-3.5 [Testes e depuração](./03-05-testes-e-depuracao.md)\
+3.5 [Testes e depuração](./03-05-testes-e-depuracao.md)
 
 **4. Melhores Práticas**
 
 4.1 [Criando e Planejando Eventos](./04-01-criando-e-planejando-eventos.md)\
 4.2 [Idempotência](./04-02-idempotencia.md)\
-4.3 [Ordem de Eventos](./04-03-ordem-de-eventos.md)\
+4.3 [Ordem de Eventos](./04-03-ordem-de-eventos.md)
 
 **5. Resumo**
 
-5.1 [Conclusão](./05-01-conclusao.md)\
+5.1 [Conclusão](./05-01-conclusao.md)
