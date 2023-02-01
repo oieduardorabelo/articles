@@ -26,7 +26,7 @@ Tradução completa do [Introduction to Event Driven Architecture](https://serve
 **3. Conceitos**
 
 3.1 [Eventos](./03-01-eventos.md)\
-3.2 [Componentes Principais de EDA](./03-02-componentes-principais-de-eda)\
+3.2 [Componentes Principais de EDA](./03-02-componentes-principais-de-eda.md)\
 3.3 [Consistência Eventual](./03-03-consistencia-eventual.md)\
 3.4 [Latência Variável](./03-04-latencia-variavel.md)\
 3.5 [Testes e depuração](./03-05-testes-e-depuracao.md)
