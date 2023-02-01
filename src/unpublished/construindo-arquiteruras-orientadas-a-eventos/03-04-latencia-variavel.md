@@ -1,4 +1,4 @@
-# Latência Variável
+# 3.4 Latência Variável
 
 Os aplicativos orientados a eventos se comunicam através de várias redes e componentes, ao contrário dos aplicativos monolíticos, que executam todos os processos usando a mesma memória em um único dispositivo. Isso introduz latência variável. Embora seja possível projetar aplicativos orientados a eventos para minimizar a latência, os aplicativos monolíticos sempre podem ser otimizados para menor latência em detrimento da escalabilidade e acessibilidade.
 

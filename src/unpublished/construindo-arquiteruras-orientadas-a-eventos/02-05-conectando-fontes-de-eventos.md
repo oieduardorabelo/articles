@@ -1,4 +1,4 @@
-# Conectando fontes de eventos
+# 2.5 Conectando fontes de eventos
 
 Muitos aplicativos têm fontes de eventos externas, incluindo aplicativos SaaS, como aplicativos de negócios responsáveis ​​por executar a folha de pagamento, armazenar registros ou emissão de bilhetes. Você também pode ingerir eventos de um aplicativo ou banco de dados existente em execução na sua empresa. As arquiteturas orientadas a eventos podem usar eventos de todas essas fontes.
 

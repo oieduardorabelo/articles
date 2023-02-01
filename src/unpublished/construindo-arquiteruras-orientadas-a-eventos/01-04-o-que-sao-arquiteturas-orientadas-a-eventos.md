@@ -1,4 +1,4 @@
-# O que são arquiteturas orientadas a eventos?
+# 1.4 O que são arquiteturas orientadas a eventos?
 
 Uma arquitetura orientada a eventos (ou EDA - _Event-Driven Architecture_) é um padrão de arquitetura que usa eventos para desacoplar os componentes de um aplicativo. Para clientes que criam aplicativos modernos com micro-serviços, a arquitetura orientada a eventos é uma maneira eficaz de criar comunicação fracamente acoplada entre micro-serviços. Os micro-serviços fracamente acoplados são capazes de escalar e falhar de forma independente, aumentando a resiliência do aplicativo. Equipes de desenvolvimento podem criar e liberar recursos para o micro-serviço de suas equipes rapidamente, sem precisar se preocupar com o comportamento de outros micro-serviços no aplicativo. Além disso, novos recursos podem ser adicionados aos eventos existentes sem fazer alterações no restante do aplicativo.
 

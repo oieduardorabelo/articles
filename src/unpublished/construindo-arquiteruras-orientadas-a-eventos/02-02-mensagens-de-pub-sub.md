@@ -1,4 +1,4 @@
-# Mensagens de Pub/Sub
+# 2.2 Mensagens de Pub/Sub
 
 [Sistema de mensagens Pub/Sub](https://www.enterpriseintegrationpatterns.com/PublishSubscribeChannel.html) é uma maneira pela qual os produtores enviam a mesma mensagem para muitos consumidores. Enquanto o sistema de mensagens ponto-a-ponto geralmente envia mensagens para apenas um consumidor, o sistema de mensagens de _assinatura de publicação_ (pub/sub) permite que você transmita mensagens e envie uma cópia para cada consumidor. O agente de eventos nesses modelos é frequentemente um roteador de eventos. Ao contrário das filas, os roteadores de eventos normalmente não oferecem persistência de eventos.
 

@@ -1,4 +1,4 @@
-# Ordem de Eventos
+# 4.3 Ordem de Eventos
 
 Uma consideração importante com a arquitetura orientada a eventos é se seu aplicativo requer eventos entregues em uma ordem específica (eventos ordenados) ou se a ordem não importa (eventos não ordenados). A ordem geralmente é garantida dentro de um escopo específico.
 

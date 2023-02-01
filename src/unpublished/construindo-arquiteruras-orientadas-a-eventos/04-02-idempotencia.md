@@ -1,4 +1,4 @@
-# Idempotência
+# 4.2 Idempotência
 
 [Idempotência](https://en.wikipedia.org/wiki/Idempotence) é a propriedade de uma operação que pode ser aplicada várias vezes sem alterar o resultado da aplicação após a execução inicial. Você pode executar com segurança uma "operação idempotente" várias vezes sem efeitos colaterais, como duplicação ou inconsistência de dados.
 

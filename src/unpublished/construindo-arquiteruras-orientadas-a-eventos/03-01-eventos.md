@@ -1,4 +1,4 @@
-# Eventos
+# 3.1 Eventos
 
 Um evento é um sinal de que um estado mudou, como um item sendo colocado em um carrinho de compras em um site de comércio eletrônico ou um cliente enviando uma solicitação de cartão de crédito em um site bancário. Eventos ocorrem no passado, ex: `OrderCreated`, `ApplicationSubmitted`.
 

@@ -1,4 +1,4 @@
-# Criando e Planejando Eventos
+# 4.1 Criando e Planejando Eventos
 
 Um evento é um sinal de que um estado mudou. Um evento descreve algo que aconteceu no passado (por exemplo, `OrderCreated`) e é imutável ou não pode ser alterado.
 

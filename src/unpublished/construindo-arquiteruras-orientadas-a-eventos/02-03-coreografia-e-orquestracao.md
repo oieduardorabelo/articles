@@ -1,4 +1,4 @@
-# Coreografia e Orquestração
+# 2.3 Coreografia e Orquestração
 
 Coreografia e orquestração são dois modelos diferentes de como os serviços distribuídos podem se comunicar entre si. Na orquestração, a comunicação é mais rigidamente controlada. Um serviço central coordena a interação e a ordem na qual os serviços são invocados. A coreografia alcança a comunicação sem controle rígido. Os eventos fluem entre os serviços sem nenhuma coordenação centralizada. Muitos aplicativos usam coreografia e orquestração para diferentes casos de uso.
 

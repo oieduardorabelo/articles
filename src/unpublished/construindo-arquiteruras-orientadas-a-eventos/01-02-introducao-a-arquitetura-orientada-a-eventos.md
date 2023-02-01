@@ -1,4 +1,4 @@
-# Introdução a Arquitetura Orientada a Eventos
+# 1.2 Introdução a Arquitetura Orientada a Eventos
 
 ## Construindo Arquiteturas Orientadas a Eventos
 

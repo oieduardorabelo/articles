@@ -1,4 +1,4 @@
-# Conclusão
+# 5.1 Conclusão
 
 As arquiteturas orientadas a eventos são um estilo de arquitetura que pode ser usado para aumentar a agilidade e criar aplicativos que escalam ​​e são confiáveis ​​em toda a sua empresa. Embora a abordagem possa apresentar novos desafios e complexidade, as arquiteturas orientadas a eventos são um método eficaz de criar aplicativos complexos, capacitando várias equipes a trabalhar de forma independente.
 

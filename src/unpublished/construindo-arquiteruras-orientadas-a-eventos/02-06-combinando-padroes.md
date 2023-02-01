@@ -1,4 +1,4 @@
-# Combinando padrões
+# 2.6 Combinando padrões
 
 Embora qualquer padrão individualmente possa atender aos seus requisitos, as arquiteturas orientadas a eventos geralmente combinam uma série de padrões que:
 

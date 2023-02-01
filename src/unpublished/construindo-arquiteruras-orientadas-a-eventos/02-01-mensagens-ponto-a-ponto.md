@@ -1,4 +1,4 @@
-# Mensagens ponto-a-ponto
+# 2.1 Mensagens ponto-a-ponto
 
 [Sistemas de mensagens ponto-a-ponto](https://www.enterpriseintegrationpatterns.com/PointToPointChannel.html) é um padrão no qual os produtores enviam mensagens normalmente destinadas a um único consumidor. O sistema de mensagens ponto-a-ponto geralmente usa filas de mensagens como seu agente de eventos. Em aplicativos de micro-serviços, mensagens ponto-a-ponto assíncronas entre micro-serviços são chamadas de ["tubos burros" (_dumb pipes_)](https://martinfowler.com/articles/microservices.html#SmartEndpointsAndDumbPipes).
 

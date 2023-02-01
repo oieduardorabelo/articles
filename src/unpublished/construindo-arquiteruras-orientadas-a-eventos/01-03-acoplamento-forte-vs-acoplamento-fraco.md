@@ -1,4 +1,4 @@
-# Acoplamento forte vs. acoplamento fraco
+# 1.3 Acoplamento forte vs. acoplamento fraco
 
 Ao criar um novo aplicativo, os clientes costumam criar aplicativos fortemente acoplados com componentes conectados diretamente. Aplicativos fortemente acoplados são fáceis de começar e simples de operar em pequena escala. À medida que o aplicativo cresce em escala e complexidade, essas conexões diretas podem se tornar difíceis de gerenciar. Aplicativos fortemente acoplados podem ter pontos únicos de falha, impactando a escalabilidade do aplicativo. Os desenvolvedores precisam se coordenar de perto para fazer alterações em componentes interdependentes, diminuindo a velocidade de lançamento de novos recursos.
 

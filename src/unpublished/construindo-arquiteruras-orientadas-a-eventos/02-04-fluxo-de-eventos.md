@@ -1,4 +1,4 @@
-# Fluxo de Eventos (Event Streaming)
+# 2.4 Fluxo de Eventos (Event Streaming)
 
 O uso de streams, ou fluxos contínuos de eventos ou dados, é outro método de abstrair produtores e consumidores. Em contraste com os roteadores de eventos, embora comparáveis ​​às filas, os fluxos geralmente exigem que os consumidores pesquisem novos eventos. Os consumidores mantêm sua lógica de filtragem exclusiva para determinar quais eventos desejam consumir enquanto rastreiam sua posição no fluxo.
 
