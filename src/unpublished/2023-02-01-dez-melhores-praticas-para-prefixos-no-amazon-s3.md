@@ -2,7 +2,11 @@
 
 ## As práticas recomendadas de prefixos S3 ajudam a organizar seus dados para que você possa encontrá-los facilmente e acompanhar suas alterações. Abaixo você encontra 10 dicas de prefixo.
 
-O Amazon S3 é um poderoso serviço de armazenamento em nuvem que pode ser usado para armazenar e recuperar dados de qualquer lugar do mundo. É uma ótima ferramenta para empresas de todos os tamanhos, mas pode ser difícil de gerenciar se você não tiver a estrutura organizacional correta. Uma das melhores maneiras de organizar seus dados no S3 é usar prefixos. Os prefixos são uma maneira de agrupar objetos relacionados e torná-los mais fáceis de encontrar. Neste artigo, discutiremos as 10 práticas recomendadas para usar os prefixos S3 para ajudá-lo a aproveitar ao máximo seu armazenamento S3.
+O Amazon S3 é um poderoso serviço de armazenamento em nuvem que pode ser usado para armazenar e recuperar dados de qualquer lugar do mundo. É uma ótima ferramenta para empresas de todos os tamanhos, mas pode ser difícil de gerenciar se você não tiver a estrutura organizacional correta.
+
+Uma das melhores maneiras de organizar seus dados no S3 é usar prefixos. Os prefixos são uma maneira de agrupar objetos relacionados e torná-los mais fáceis de encontrar.
+
+Neste artigo, discutiremos as 10 práticas recomendadas para usar os prefixos S3 para ajudá-lo a aproveitar ao máximo seu armazenamento S3.
 
 # 1. Use um prefixo para agrupar objetos
 
