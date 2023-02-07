@@ -124,3 +124,9 @@ Espero que este post tenha sido útil para você. Se você quiser aprender mais 
 Se você se inscrever antes de 1º de janeiro de 2023, também poderá obter 30% de desconto com nosso desconto de acesso antecipado! Espero vê-lo no curso :-)
 
 ![](https://theburningmonk.com/wp-content/uploads/2022/12/img_638bb6f03af8f.png)
+
+---
+
+# Créditos
+
+- Escrito originalmente por [Yan Cui](https://twitter.com/theburningmonk), em [A practical guide to testing AWS Step Functions](https://theburningmonk.com/2022/12/a-practical-guide-to-testing-aws-step-functions/)
