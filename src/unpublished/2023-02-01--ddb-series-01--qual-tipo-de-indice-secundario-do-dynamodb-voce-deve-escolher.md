@@ -14,7 +14,7 @@ Modelagem de dados em Amazon DynamoDB, séries de artigos:
 
 1. [O que realmente importa na modelagem de dados do DynamoDB?]()
 2. Qual tipo de índice secundário do DynamoDB você deve escolher? **(VOCÊ ESTÁ AQUI)**
-3. Custos de projeção de índice e perigos de GSIs sobrecarregados (em breve)
+3. [Maximize a economia de custos e escalabilidade do DynamoDB com índice secundário otimizado]()
 
 Este é o segundo artigo de uma série curta sobre modelagem de dados no Amazon DynamoDB (sem os equívocos de "design de tabela única"). Se você não leu o primeiro artigo, eu o encorajo [a dar uma olhada](https://www.gomomento.com/blog/what-really-matters-in-dynamodb-data-modeling). Nele, discuto os conceitos mais importantes da modelagem do DynamoDB: **flexibilidade de esquema** e **coleções de itens**. Vou us essa base para discutir índices secundários, um dos meus recursos favoritos do DynamoDB. Observe que este artigo assume alguma familiaridade com os principais conceitos do DynamoDB, como partições, itens, tipos de chave primária e tipos de dados. Se você precisa se atualizar sobre eles, aqui está uma [lista de vídeos que eu recomendo](https://www.youtube.com/playlist?list=PLJo-rJlep0EDNtcDeHDMqsXJcuKMcrC5F).
 
