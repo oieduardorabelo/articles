@@ -94,4 +94,4 @@ Ambos os métodos ajudarão a garantir que apenas usuários autorizados possam a
 
 # Créditos
 
-- Escrito originalmente por [Janet Maples](https://climbtheladder.com/users/1710/profile/janet-maples/), em [10 S3 Naming Convention Best Practices](https://climbtheladder.com/10-s3-naming-convention-best-practices/).
+- Escrito originalmente por [Janet Maples](https://climbtheladder.com/users/1762/profile/daryl-pilkington/), em [10 S3 Naming Convention Best Practices](https://climbtheladder.com/10-s3-bucket-naming-convention-best-practices/).
