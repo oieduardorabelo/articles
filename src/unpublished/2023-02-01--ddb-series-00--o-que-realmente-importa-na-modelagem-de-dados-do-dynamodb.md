@@ -10,11 +10,13 @@
 
 ---
 
-Modelagem de dados em Amazon DynamoDB, séries de artigos:
+Série de artigos sobre **Modelagem de dados em Amazon DynamoDB**:
 
 1. O que realmente importa na modelagem de dados do DynamoDB? **(VOCÊ ESTÁ AQUI)**
 2. [Qual tipo de índice secundário do DynamoDB você deve escolher?]()
 3. [Maximize a economia de custos e escalabilidade do DynamoDB com índice secundário otimizado]()
+
+---
 
 Quando deixei a equipe do DynamoDB alguns meses atrás, decidi que precisava compartilhar o que aprendi sobre como modelar dados para o DynamoDB e operá-lo bem. Durante **meus seis anos trabalhando com clientes internos e externos do DynamoDB na AWS**, tive a sorte de obter exposição a uma ampla variedade de modelos de dados do DynamoDB. Eu também vi como eles evoluíram na operação: como eles foram dimensionados (ou não) utilização com carga variável, sua flexibilidade para acomodar novos requisitos de aplicativos e se eles se tornaram proibitivos em termos de custo ao longo do tempo.
 
@@ -85,6 +87,12 @@ Se você quiser discutir esse tópico comigo, obter minha opinião sobre uma per
 ---
 
 Fique de olho em artigos futuros em que discutirei as nuâncias de LSIs e GSIs e explicarei por que a "sobrecarga de GSI" é um padrão de modelagem de araque.
+
+---
+
+Se você quiser discutir esse tópico comigo, obter minha opinião sobre uma pergunta de modelagem de dados do DynamoDB que você tem ou sugerir tópicos para eu escrever em artigos futuros, entre em contato comigo no Twitter ([@pj_naylor](https://twitter.com/pj_naylor)) ou envie-me um [e-mail diretamente]mailto:petenaylor@momentohq.com)!
+
+---
 
 # Apêndice: O que eu saberia sobre o DynamoDB afinal?
 
